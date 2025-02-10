@@ -1,5 +1,5 @@
 
-# Healthcare chatbot Using machine learning and natural language prcessing
+# Healthcare chatbot Using machine learning and natural language processing
 
 Healthcare is very important to lead a good life. However, it is very difficult to obtain a
 consultation with a doctor for every health problem. The idea is to create a medical chatbot
